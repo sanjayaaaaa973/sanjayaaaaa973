@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI agents**
 
-- 👨‍💻 All of my projects are available at [https://sanjay24portfolio.netlify.app/](https://sanjay24portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sanjay24portfolio.netlify.app/](https://sanjayportfolio2.netlify.app/)
 
 - 📫 How to reach me **sanjaygs2406@gmail.com**
 
