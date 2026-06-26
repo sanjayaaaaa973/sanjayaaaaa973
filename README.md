@@ -1,31 +1,114 @@
-<h1 align="center">Hi 👋, I'm Sanjay S</h1>
-<h3 align="center">A passionate web developer from India</h3>
+# Hi there 👋, I'm Sanjay S
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayaaaaa973&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayaaaaa973" /> </p>
+### 🚀 Integrated M.Tech Software Engineering Student | Full Stack Developer | AI & Computer Vision Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjayaaaaa973" alt="sanjayaaaaa973" /></a> </p>
+I'm a pre-final year Integrated M.Tech Software Engineering student at **VIT Vellore** with a passion for building impactful software solutions using AI, Web Development, Computer Vision, Blockchain, and IoT.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+* 🔭 Currently building **AI-powered Full Stack Applications**
+* 🌱 Exploring **AI Agents, LLMs, RAG & Multi-Agent Systems**
+* 💼 Former Web Development Intern at **Aarvasa Innovations** and **Cognifyz Technologies**
+* 🏆 3× Hackathon Winner
+* 📜 3 Published Patents
+* 💡 Interested in Software Engineering, AI, Cloud & Startups
 
-- 🔭 I’m currently working on **aarvasa**
+---
 
-- 🌱 I’m currently learning **AI agents**
+## 🌐 Portfolio
 
+🔗 https://sanjayportfolio2.netlify.app/
 
-- 📫 How to reach me **sanjaygs2406@gmail.com**
+## 📫 Contact
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjay s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay s" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjay_saravanan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjay_saravanan__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjay_saravanan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay_saravanan__" height="30" width="40" /></a>
+📧 **Email:** [sanjaygs2406@gmail.com](mailto:sanjaygs2406@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/sanjay-s
+
+💻 **GitHub:** https://github.com/sanjayaaaaa973
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡 GuardianTrack
+
+AI-powered attendance system using RFID, Face Recognition & EAS.
+
+### 🚗 VEU
+
+Road accident detection and emergency alert system using Computer Vision.
+
+### 🌱 Velaan AI
+
+AI-powered crop disease detection and agricultural intelligence platform.
+
+### 🌍 Blockchain Environmental Tamper Detection
+
+Secure environmental monitoring using IoT + Blockchain.
+
+### 🏯 Monastery360
+
+Digital Heritage Platform developed for Smart India Hackathon.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+Java • JavaScript • C • C++ • HTML • CSS
+
+### Frontend
+
+HTML • CSS • JavaScript • Bootstrap • React
+
+### Backend
+
+PHP • REST APIs • Node.js
+
+### Database
+
+MySQL • SQL
+
+### Cloud & DevOps
+
+AWS • Docker • Kubernetes • Git • GitHub
+
+### AI & Emerging Tech
+
+Machine Learning • Computer Vision • Blockchain • IoT • AI Agents
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayaaaaa973&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayaaaaa973&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayaaaaa973&theme=tokyonight"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayaaaaa973&show_icons=true&locale=en&layout=compact" alt="sanjayaaaaa973" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayaaaaa973&show_icons=true&locale=en" alt="sanjayaaaaa973" /></p>
+## 🏆 GitHub Trophies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayaaaaa973&" alt="sanjayaaaaa973" /></p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjayaaaaa973&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sanjay-s"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://github.com/sanjayaaaaa973"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://instagram.com/sanjay_saravanan__"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+<a href="mailto:sanjaygs2406@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+</p>
+
+---
+
+> *"Building technology that creates real-world impact."* 🚀
