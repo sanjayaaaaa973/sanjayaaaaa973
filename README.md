@@ -383,16 +383,25 @@ Built responsive web experiences while applying modern development practices, de
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjayaaaaa973&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sanjayaaaaa973&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjayaaaaa973&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br><br>
+<img height="180em" src="https://streak-stats.demolab.com?user=sanjayaaaaa973&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayaaaaa973&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" alt="Top Languages" />
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayaaaaa973&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjayaaaaa973&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+</div>
 
 ## GitHub Trophies
 
